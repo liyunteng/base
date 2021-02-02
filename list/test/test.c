@@ -48,7 +48,7 @@ print_list(struct list_head *h)
 }
 
 int
-test1()
+test1(void)
 {
     int count           = 100;
     struct list_head *x = &head;

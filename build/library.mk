@@ -8,7 +8,7 @@
 # EXPORT_DIR:      Export include directories (default include)
 # CONFIG_FILES:    Files copy to OUT_CONFIG
 # ADDED_FILES:     Files copy to OUT_BIN
-# TEST_DIRS:        Test file directories
+# TEST_DIRS:       Test file directories
 # CFLAGS:          gcc -c Flags (added -fPIC)
 # CPPFLAGS:        cpp Flags
 # CXXFLAGS:        g++ -c Flags
